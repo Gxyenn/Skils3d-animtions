@@ -1,0 +1,5 @@
+references/vids/
+out/
+backup/
+node_modules/
+.env
